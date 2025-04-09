@@ -1,40 +1,87 @@
-### 
+# 👋 Hey, I'm Josh Date
 
-<h1 align="center">Hi 👋, I'm Josh Date</h1>
-<h3 align="center">A Passionate Developer from Canada😆😎</h3>
+🎯 A Passionate Web Developer from Canada 🇨🇦  
+📍 Based in Canada | @_Katsuro on socials  
+💻 145+ repositories | ⭐ 168 stars | 🧑‍💻 611 contributions in the last year  
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=josh-d18&label=Profile%20views&color=0e75b6&style=flat" alt="josh-d18" /> </p>
+---
 
-- 🌱 I’m currently learning **Swift, Python, Unity and MongoDB**
+## 🚀 About Me
 
-- 💬 Ask me about **React and Express!**
+Hi there! I'm Josh, a software engineer who loves tinkering with code, building unique projects, and always pushing to learn something new. Whether it's front-end magic or back-end logic, I'm always coding with passion and curiosity.
 
-- 📫 How to reach me **jjdate23@gmail.com**
+- 🔭 I’m currently working on:  
+  - **TaskFlow** – a collaborative task management app  
+  - **SwiftGig** – a freelance productivity toolkit  
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://dev.to/jdate" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="jdate" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/jdate" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jdate" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/8062780" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="8062780" height="30" width="40" /></a>
-</p>
+- 🌱 Currently learning:  
+  - TypeScript ⚙️  
+  - AWS ☁️  
+  - Swift 🧠  
+  - Python 🐍  
+  - Unity 🎮  
+  - MongoDB 🍃  
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=josh-d18&show_icons=true&locale=en&layout=compact" alt="josh-d18" /></p>
+- 💬 Ask me about:  
+  - React ⚛️  
+  - Express 🧪  
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=josh-d18&show_icons=true&locale=en" alt="josh-d18" /></p>
+- 📫 How to reach me:  
+  - **Email**: [jjdate23@gmail.com](mailto:jjdate23@gmail.com)  
+  - **GitHub**: [@Josh-D18](https://github.com/Josh-D18)  
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=josh-d18&" alt="josh-d18" /></p>
+---
 
-<!--
-**Josh-D18/Josh-D18** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🧰 Tech Stack
 
-Here are some ideas to get you started:
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white&style=for-the-badge)
+![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black&style=for-the-badge)
+![Express](https://img.shields.io/badge/-Express-000000?logo=express&logoColor=white&style=for-the-badge)
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white&style=for-the-badge)
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white&style=for-the-badge)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white&style=for-the-badge)
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?logo=bootstrap&logoColor=white&style=for-the-badge)
+![jQuery](https://img.shields.io/badge/-jQuery-0769AD?logo=jquery&logoColor=white&style=for-the-badge)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 📌 Featured Projects
+
+### 🔍 [DevFinder](https://github.com/Josh-D18/devfinder)  
+Search for GitHub Profiles with a sleek UI. Built with **TypeScript**.
+
+### 💼 [Portfolio Site](https://github.com/Josh-D18/portfolio-site)  
+A developer portfolio based on a Frontend Mentor design. Made with **TypeScript**.
+
+### 🌐 [PortfolioWebsite](https://github.com/Josh-D18/portfoliowebsite)  
+My earlier portfolio built with **HTML, CSS, Bootstrap**, and **jQuery**.
+
+### 🔧 [restAPIBasic](https://github.com/Josh-D18/restAPIBasic)  
+A simple starter project using **TypeScript** to explore REST API fundamentals.
+
+---
+
+## 🏆 GitHub Achievements
+
+- 🧠 **Quickdraw**  
+- 🦈 **Pull Shark x2**  
+- 🤖 **YOLO**  
+- ❄️ **Arctic Code Vault Contributor**
+
+---
+
+## 📈 GitHub Stats
+
+![Josh's GitHub stats](https://github-readme-stats.vercel.app/api?username=Josh-D18&show_icons=true&theme=radical&hide_border=true)  
+![GitHub Streak](https://streak-stats.demolab.com/?user=Josh-D18&theme=radical&hide_border=true)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Josh-D18&layout=compact&theme=radical&hide_border=true)
+
+---
+
+## 👀 Visitor Counter
+
+![Visitor Count](https://komarev.com/ghpvc/?username=Josh-D18&label=Visitors&color=blue&style=flat)
+
+---
+
+Thanks for stopping by! Feel free to check out my repositories or connect via email! 😊
