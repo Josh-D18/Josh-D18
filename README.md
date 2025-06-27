@@ -1,6 +1,6 @@
 # 👋 Hey, I'm Josh Date
 
-🎯 A Passionate Web Developer from Canada 🇨🇦  
+🎯 Full Stack Software Engineer from Canada 🇨🇦  
 📍 Based in Canada | @_Katsuro on socials  
 💻 145+ repositories | ⭐ 168 stars | 🧑‍💻 611 contributions in the last year  
 
