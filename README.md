@@ -9,7 +9,7 @@
 
 ## 🚀 About Me
 
-Hi there! I'm Josh, a web developer who loves tinkering with code, building unique projects, and always pushing to learn something new. Whether it's front-end magic or back-end logic, I'm always coding with passion and curiosity.
+Hi there! I'm Josh, a Full Stack Software Engineer who loves tinkering with code, building unique projects, and always pushing to learn something new. Whether it's front-end magic or back-end logic, I'm always coding with passion and curiosity.
 
 - 🔭 I’m currently working on:  
   - **TaskFlow** – a collaborative task management app  
