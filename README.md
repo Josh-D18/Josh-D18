@@ -13,7 +13,7 @@ Hi there! I'm Josh, a Full Stack Software Engineer who loves tinkering with code
 
 - 🔭 I’m currently working on:  
   - **TaskFlow** – a collaborative task management app  
-  - **SwiftGig** – a freelance productivity toolkit  
+  - **Zepli** – a freelance productivity toolkit  
 
 - 🌱 Currently learning:  
   - TypeScript ⚙️  
